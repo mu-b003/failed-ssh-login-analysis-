@@ -1,1 +1,9 @@
+2026-07-02T11:33:52.223594+00:00 barakcomputer sshd-session[8437]: Failed password for invalid user admin from 192.168.150.128 port 34044 ssh2
 
+2026-07-02T11:33:57.891718+00:00 barakcomputer sshd-session[8437]: Failed password for invalid user admin from 192.168.150.128 port 34044 ssh2
+
+2026-07-02T11:34:03.619406+00:00 barakcomputer sshd-session[8437]: Failed password for invalid user admin from 192.168.150.128 port 34044 ssh2
+
+2026-07-02T11:34:33.077195+00:00 barakcomputer sshd-session[8439]: Failed password for IT-support from 192.168.150.128 port 47936 ssh2
+
+2026-07-02T11:34:39.093741+00:00 barakcomputer sshd-session[8439]: Failed password for IT-support from 192.168.150.128 port 47936 ssh2
